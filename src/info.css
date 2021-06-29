@@ -1,0 +1,17 @@
+javascript, 
+body{
+    margin: 0;
+    padding: 3;
+    font-family: 'Libre Baskerville', sans-serif;
+
+}
+header{
+    font-size: 30px;
+    text-align: center;
+    color:paleturquoise;
+    
+}
+button{
+    text-align: center;
+    margin:15px;
+}
