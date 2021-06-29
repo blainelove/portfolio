@@ -7,12 +7,11 @@ import Info from "./Info";
 
 ReactDOM.render(
   
-  <React.StrictMode>
-    <body>
-      <App />
-      <Info ></Info>
-    </body>
-  </React.StrictMode>,
+  
+  
+  <Info ></Info>,
+  
+ 
   document.getElementById('root')
 );
 
