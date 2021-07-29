@@ -1,47 +1,46 @@
-import React, {useEffect, useState} from "react"
-import Background from"./Background";
-import Resume from "./Resume"
-import './resume.pdf'
+import React, {useState} from "react";
 import './info.css';
+import About from "./About";
+import Resume from "./Resume"
 
-let aState = true
-function click(){
-  
-  if (aState === true){
-    aState = false
-  }
-    
-  else (
-    aState = true)
-  
-  console.log(aState)
-}
 
 function Info() {
+  const [displayAbout, setDisplayAbout] = useState(false)
+
+  function click(){
+    setDisplayAbout(!displayAbout)
+      }
+
     return (
       
       <div>
           <header>
             
             <h1>Blaine Love</h1>
-         
-              <a onClick={click}href="./resume.pdf">Resume</a>
-             
-              <a href="https://github.com/blainelove" class>Github</a>
-              <a href="https://www.linkedin.com/in/blaine-love/">Linkedin</a>
+           
               
-           
-              <a onclick={click} href="About">About</a>
-           
-          </header>
-          <body>
-            
-
-          </body>
+              <a href="https://github.com/blainelove" target="_blank">Github</a>
+              <a href="https://www.linkedin.com/in/blaine-love/" target="_blank">Linkedin</a>
+              
+          
+    
+     
+        
+    
+      
          
+              <button onClick={click}>{displayAbout} About / Resume</button>
+                {displayAbout ? (
+                <Resume></Resume>
+                    ) : (
+                <About> </About>
+                  )}
+          </header>
           
       </div>
-      
-    );
-  }
-export default Info 
+            
+        
+    )     
+};
+
+export default Info

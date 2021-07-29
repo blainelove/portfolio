@@ -1,16 +1,18 @@
-import React from 'react';
+import React, {useState} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Info from "./Info";
-
 ReactDOM.render(
   
   
-  
-  <Info ></Info>,
-  
+    <body>
+
+      <Info></Info>
+      
+     
+   
+    </body>,
  
   document.getElementById('root')
 );
