@@ -61,7 +61,7 @@ const info = () => {
                     <div class="col-lg-8">
                         <h2 class="text-white mb-4">About Me</h2>
                         <p class="text-white-50">
-                        I am a recent Graduate from Flatiron where I studied full-stack software-engineering. This was my first step in my career change from Sales and Business Marketing to my life long passion that is technology. The crazy year that was 2020 gave me the opportunity to explore this industry and develop my skills in languages such as Ruby, Ruby on Rails, Javascript, Javascript React, HTML and CSS.
+                        I'm passionate about technology and finding ways to use technology to improve daily life. At university I studied business with a focus in sales and business marketing. During this time I also taught myself to code as I've always believed programming is an important skill to have in any industry. I became more interested in software engineering, but the pandemic gave me the final push I needed to fully commit to a career move. I enrolled in Flatiron's Software Engineering Program which gave me the opportunity to further develop my skills and build full stack apps using Ruby, Ruby on Rails, Javascript, React, HTML, CSS, and APIs.
                         </p>
                     </div>
                 </div>
@@ -73,13 +73,13 @@ const info = () => {
           
             <div>
                 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
-                    <div class="col-lg-6"><ReactPlayer url='https://www.youtube.com/watch?v=kHjaehH-EtA'  /></div>
+                    <div class="col-lg-6"><ReactPlayer url='https://youtu.be/3gYYjpXD3zs'  /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
                                     <h4 class="text-white">Hobby Lobby</h4>
-                                    <p class="mb-0 text-white-50">An example of where you can put an image of a project, or anything else, along with a description.</p>
+                                    <p class="mb-0 text-white-50">A Web App that I created that lets you create hobbies and with each hobby you can post many thoughts or feelings about the hobby inlding pictures</p>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
@@ -88,13 +88,13 @@ const info = () => {
                 </div>
                
                 <div class="row gx-0 justify-content-center">
-                    <div class="col-lg-6"><ReactPlayer url='https://www.youtube.com/watch?v=EBIsZlV1jHk'class="img-fluid"  alt="..." /></div>
+                    <div class="col-lg-6"><ReactPlayer url='https://www.youtube.com/watch?v=JdEnZ_8elh0'class="img-fluid"  alt="..." /></div>
                     <div class="col-lg-6 order-lg-first">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-right">
                                     <h4 class="text-white">Sports</h4>
-                                    <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>
+                                    <p class="mb-0 text-white-50">This Web app created with Ruby on Rails backend and a React frontend. Lets you post videos about these wacky sports select with full CRUD functionality. </p>
                                     <hr class="d-none d-lg-block mb-0 me-0" />
                                 </div>
                             </div>
@@ -102,13 +102,13 @@ const info = () => {
                     </div>
                 </div>
                 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
-                    <div class="col-lg-6" ><ReactPlayer url='https://www.youtube.com/watch?v=kHjaehH-EtA'class="img-fluid"  alt="..." /></div>
+                    <div class="col-lg-6" ><ReactPlayer url='https://www.youtube.com/watch?v=o0sHYCRRyZs'class="img-fluid"  alt="..." /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
                                     <h4 class="text-white">How You Feelin</h4>
-                                    <p class="mb-0 text-white-50">An example of where you can put an image of a project, or anything else, along with a description.</p>
+                                    <p class="mb-0 text-white-50">In This Web App you will be able to create to do lists. Within the lists you will be able to create tasks the you wish to compelete in the near future.  </p>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
