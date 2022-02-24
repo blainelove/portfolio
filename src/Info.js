@@ -37,7 +37,7 @@ const info = () => {
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
                         <li class="nav-item"><a class="nav-link" href="#signup">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link" target="_blank" href="https://drive.google.com/file/d/1-611yEXYt5DySzqfJ-KGmNyoKZ2r_y8C/view?usp=sharing">Resume</a></li>
+                        <li class="nav-item"><a class="nav-link" target="_blank" href="https://drive.google.com/file/d/1aATMECkPa058b-9idGc7oJE8mKWEkLw1/view?usp=sharing">Resume</a></li>
                     </ul>
                 </div>
             </div>
@@ -61,7 +61,7 @@ const info = () => {
                     <div class="col-lg-8">
                         <h2 class="text-white mb-4">About Me</h2>
                         <p class="text-white-50">
-                        I'm passionate about technology and finding ways to use technology to improve daily life. At university I studied business with a focus in sales and business marketing. During this time I also taught myself to code as I've always believed programming is an important skill to have in any industry. I became more interested in software engineering, but the pandemic gave me the final push I needed to fully commit to a career move. I enrolled in Flatiron's Software Engineering Program which gave me the opportunity to further develop my skills and build full stack apps using Ruby, Ruby on Rails, Javascript, React, HTML, CSS, and APIs.
+                        I'm passionate about technology and finding ways to use technology to improve daily life. At university I studied business with a focus in sales and business marketing. During this time I also taught myself to code as I've always believed programming is an important skill to have in any industry. I became more interested in software engineering, but the pandemic gave me the final push I needed to fully commit to a career move. I enrolled in Flatiron's Software Engineering Program which gave me the opportunity to further develop my skills and build full stack apps using Ruby, Ruby on Rails, Java, Python, Javascript, React, HTML, CSS, and APIs.
                         </p>
                     </div>
                 </div>
