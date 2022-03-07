@@ -73,7 +73,7 @@ const info = () => {
           
             <div>
                 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
-                    <div class="col-lg-6"><ReactPlayer url='https://youtu.be/3gYYjpXD3zs'  /></div>
+                    <div class="col-lg-6"><ReactPlayer url='https://youtu.be/3gYYjpXD3zs' width= '100%' /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
@@ -88,7 +88,7 @@ const info = () => {
                 </div>
                
                 <div class="row gx-0 justify-content-center">
-                    <div class="col-lg-6"><ReactPlayer url='https://www.youtube.com/watch?v=JdEnZ_8elh0'class="img-fluid"  alt="..." /></div>
+                    <div class="col-lg-6"><ReactPlayer url='https://www.youtube.com/watch?v=JdEnZ_8elh0' width= "100%"/></div>
                     <div class="col-lg-6 order-lg-first">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
@@ -102,7 +102,7 @@ const info = () => {
                     </div>
                 </div>
                 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
-                    <div class="col-lg-6" ><ReactPlayer url='https://www.youtube.com/watch?v=o0sHYCRRyZs'class="img-fluid"  alt="..." /></div>
+                    <div class="col-lg-6" ><ReactPlayer url='https://www.youtube.com/watch?v=o0sHYCRRyZs' width= '100%' /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
