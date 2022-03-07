@@ -79,7 +79,10 @@ const info = () => {
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
                                     <h4 class="text-white">Hobby Lobby</h4>
-                                    <p class="mb-0 text-white-50">In this app you can create hobbies and with each hobby you can post thoughts or feelings about the hobby. Mainly used to post pictures and videos with short comments attached. The Hobbies and Thoughts are built with full CRUD functionalities. This app was created using Ruby on Rails, Javascript React, and PostgresSQL. </p>
+                                    <p class="mb-0 text-white-50">In this app you can create hobbies and with each hobby you can post thoughts or feelings about the hobby. Mainly used to post pictures and videos with short comments attached. The hobbies and thoughts are built with full CRUD functionalities. This app was created using Ruby on Rails, Javascript React, and PostgresSQL. </p>
+                                    <a href="https://github.com/blainelove/HobbyLobby-Front">Frontend</a>
+                                    <p> </p> 
+                                    <a href="https://github.com/blainelove/HobbyLobby-backend"> Backend </a>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
@@ -94,7 +97,10 @@ const info = () => {
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-right">
                                     <h4 class="text-white">Sports</h4>
-                                    <p class="mb-0 text-white-50">This Web app created with Ruby on Rails backend and a React frontend. Lets you post videos about these wacky sports and add new sports that you find fun. Built each object with full CRUD functionality. </p>
+                                    <p class="mb-0 text-white-50">This web app created with Ruby on Rails backend and a React frontend. Lets you post videos about wacky sports and add new sports that you find fun. Built each object with full CRUD functionality. </p>
+                                    <a href="https://github.com/blainelove/sports---frontend">Frontend</a>
+                                    <p> </p> 
+                                    <a href="https://github.com/blainelove/sports-backend"> Backend </a>
                                     <hr class="d-none d-lg-block mb-0 me-0" />
                                 </div>
                             </div>
@@ -108,7 +114,10 @@ const info = () => {
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
                                     <h4 class="text-white">How You Feelin</h4>
-                                    <p class="mb-0 text-white-50"> In this App you are able to create to-do-lists with Items that need to be done. Each Item has a timestamp when it was created and can be marked as finished and be removed from list. Created Using Ruby on Rails and Javascript. </p>
+                                    <p class="mb-0 text-white-50"> In this app you are able to create to-do-lists with items that need to be done. Each item has a timestamp when it was created and can be marked as finished and be removed from list. Created Using Ruby on Rails and Javascript. </p>
+                                    <a href="https://github.com/blainelove/howYouFeel">Frontend</a>
+                                    <p> </p> 
+                                    <a href="https://github.com/blainelove/howYouFeel--Backend"> Backend </a>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
