@@ -37,7 +37,7 @@ const info = () => {
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
                         <li class="nav-item"><a class="nav-link" href="#signup">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link" target="_blank" href="https://drive.google.com/file/d/1aATMECkPa058b-9idGc7oJE8mKWEkLw1/view?usp=sharing">Resume</a></li>
+                        <li class="nav-item"><a class="nav-link" target="_blank" href="https://docs.google.com/document/d/1TmZ7HBNxNICjhmYe7u7RcwNFcmCrB6DEkaVEk961nc0/edit?usp=sharing">Resume</a></li>
                     </ul>
                 </div>
             </div>
