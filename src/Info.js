@@ -65,7 +65,7 @@ const info = () => {
                         </p>
                     </div>
                 </div>
-                <img class="img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UWaDlb9WpmuL6HXRTLu6tISiqrj57soY6g&usqp=CAU" alt="..." />
+                <img class="img-fluid" src="https://media-exp1.licdn.com/dms/image/D4D35AQEcdakK4dOJhg/profile-framedphoto-shrink_200_200/0/1624544258491?e=1646776800&v=beta&t=vdUP08s5K6YtdkNMmqFRZMs7DBsT1dmj7ycqqwhqxwo" alt="..." />
             </div>
         </section>
         <h1>Projects</h1>
