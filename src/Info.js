@@ -139,7 +139,7 @@ const info = () => {
                                 <i class="fa fa-google"></i>
                                 <h4 class="text-uppercase m-0">Email</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50"><a href="https://mail.google.com/mail/u/0/#inbox">Blainelove94@gmail.com</a></div>
+                                <div class="small text-black-50"><a href="mailto:Blainelove94@gmail.com">Blainelove94@gmail.com</a></div>
                             </div>
                         </div>
                     </div>
