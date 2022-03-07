@@ -79,7 +79,7 @@ const info = () => {
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
                                     <h4 class="text-white">Hobby Lobby</h4>
-                                    <p class="mb-0 text-white-50">A Web App that I created that lets you create hobbies and with each hobby you can post many thoughts or feelings about the hobby inlding pictures</p>
+                                    <p class="mb-0 text-white-50">In this app you can create hobbies and with each hobby you can post thoughts or feelings about the hobby. Mainly used to post pictures and videos with short comments attached. The Hobbies and Thoughts are built with full CRUD functionalities. This app was created using Ruby on Rails, Javascript React, and PostgresSQL. </p>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
@@ -94,7 +94,7 @@ const info = () => {
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-right">
                                     <h4 class="text-white">Sports</h4>
-                                    <p class="mb-0 text-white-50">This Web app created with Ruby on Rails backend and a React frontend. Lets you post videos about these wacky sports select with full CRUD functionality. </p>
+                                    <p class="mb-0 text-white-50">This Web app created with Ruby on Rails backend and a React frontend. Lets you post videos about these wacky sports and add new sports that you find fun. Built each object with full CRUD functionality. </p>
                                     <hr class="d-none d-lg-block mb-0 me-0" />
                                 </div>
                             </div>
@@ -108,7 +108,7 @@ const info = () => {
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
                                     <h4 class="text-white">How You Feelin</h4>
-                                    <p class="mb-0 text-white-50">In This Web App you will be able to create to do lists. Within the lists you will be able to create tasks the you wish to compelete in the near future.  </p>
+                                    <p class="mb-0 text-white-50"> In this App you are able to create to-do-lists with Items that need to be done. Each Item has a timestamp when it was created and can be marked as finished and be removed from list. Created Using Ruby on Rails and Javascript. </p>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
@@ -127,9 +127,9 @@ const info = () => {
                         <div class="card py-4 h-100">
                             <div class="card-body text-center">
                                 <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-                                <h4 class="text-uppercase m-0">Address</h4>
+                                <h4 class="text-uppercase m-0">Location</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50">333 Grand st. Apt. 1210</div>
+                                <div class="small text-black-50">New York City / Jersey City</div>
                             </div>
                         </div>
                     </div>
