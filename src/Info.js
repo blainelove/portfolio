@@ -73,12 +73,12 @@ const info = () => {
           
             <div>
                 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
-                    <div class="col-lg-6"><ReactPlayer url='https://youtu.be/3gYYjpXD3zs' width= '100%' /></div>
+                    <div class="col-lg-6"><ReactPlayer url='https://youtu.be/FNDtbRwrOWc' width= '100%' /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-white">Hobby Lobby</h4>
+                                    <h4 class="text-white">Hobbies</h4>
                                     <p class="mb-0 text-white-50">In this app you can create hobbies and with each hobby you can post thoughts or feelings about the hobby. Mainly used to post pictures and videos with short comments attached. The hobbies and thoughts are built with full CRUD functionalities. This app was created using Ruby on Rails, Javascript React, and PostgresSQL. </p>
                                     <a href="https://github.com/blainelove/HobbyLobby-Front">Frontend</a>
                                     <p> </p> 
